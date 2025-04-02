@@ -1,0 +1,2 @@
+luatex songidx.lua cbtitle.sxd -- crea indice
+pdflatex himnario.tex -- complila el himnario
