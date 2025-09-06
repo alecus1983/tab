@@ -1,0 +1,1575 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.6.28)  2 AUG 2025 23:26
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**himnario.tex
+(./himnario.tex
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+(/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count196
+\c@section=\count197
+\c@subsection=\count198
+\c@subsubsection=\count199
+\c@paragraph=\count266
+\c@subparagraph=\count267
+\c@figure=\count268
+\c@table=\count269
+\abovecaptionskip=\skip49
+\belowcaptionskip=\skip50
+\bibindent=\dimen141
+)
+(/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2024/02/08 v1.3d Input encoding file
+\inpenc@prehook=\toks17
+\inpenc@posthook=\toks18
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2024/12/12 v1.0g TeX engine tests
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2022/05/29 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+)
+(/usr/share/texlive/texmf-dist/tex/latex/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2022-10-05 v1.19 Key value parser (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2023-12-04 v1.26 LaTeX kernel commands for general use (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/share/texlive/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+(/usr/share/texlive/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+
+(/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(/usr/share/texlive/texmf-dist/tex/generic/gettitlestring/gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
+))
+\c@section@level=\count270
+)
+(/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count271
+)
+(/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
+)
+)
+\@linkdim=\dimen142
+\Hy@linkcounter=\count272
+\Hy@pagecounter=\count273
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+\Hy@SavedSpaceFactor=\count274
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Option `bookmarks' set `true' on input line 4040.
+Package hyperref Info: Hyper figures OFF on input line 4157.
+Package hyperref Info: Link nesting OFF on input line 4162.
+Package hyperref Info: Hyper index ON on input line 4165.
+Package hyperref Info: Plain pages OFF on input line 4172.
+Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4424.
+\c@Hy@tempcnt=\count275
+
+(/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4763.
+\XeTeXLinkMargin=\dimen143
+
+(/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count276
+\Field@Width=\dimen144
+\Fld@charsize=\dimen145
+Package hyperref Info: Hyper figures OFF on input line 6042.
+Package hyperref Info: Link nesting OFF on input line 6047.
+Package hyperref Info: Hyper index ON on input line 6050.
+Package hyperref Info: backreferencing OFF on input line 6057.
+Package hyperref Info: Link coloring OFF on input line 6062.
+Package hyperref Info: Link coloring with OCG OFF on input line 6067.
+Package hyperref Info: PDF/A mode OFF on input line 6072.
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
+package with kernel methods
+)
+\Hy@abspage=\count277
+\c@Item=\count278
+\c@Hfootnote=\count279
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2024-11-05 v7.01l Hyperref driver for pdfTeX
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
+kage
+with kernel methods
+)
+\Fld@listcount=\count280
+\c@bookmark@seq@number=\count281
+
+(/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+
+(/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+85.
+)
+\Hy@SectionHShift=\skip51
+)
+(/usr/share/texlive/texmf-dist/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2024/09/29 v3.02 LaTeX color extensions (UK)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 274.
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2024/04/13 v1.2c Graphics/color driver for pdftex
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/mathcolor.ltx)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1349.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1353.
+Package xcolor Info: Model `RGB' extended on input line 1365.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1367.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1370.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1371.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2025/01/30 v0.6e Insert pages of external PDF documents (AM)
+
+(/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
+Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count282
+\calc@Bcount=\count283
+\calc@Adimen=\dimen146
+\calc@Bdimen=\dimen147
+\calc@Askip=\skip52
+\calc@Bskip=\skip53
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count284
+\calc@Cskip=\skip54
+)
+(/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
+\ESO@tempdima=\dimen148
+\ESO@tempdimb=\dimen149
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2023/12/02 v1.11 sin cos tan (DPC)
+)
+(/usr/share/texlive/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 106.
+)
+\Gin@req@height=\dimen150
+\Gin@req@width=\dimen151
+)
+\AM@pagewidth=\dimen152
+\AM@pageheight=\dimen153
+\AM@fboxrule=\dimen154
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2025/01/30 v0.6e Pdfpages driver for pdfTeX (AM)
+)
+\pdfpages@includegraphics@status=\count285
+\AM@pagebox=\box52
+\AM@global@opts=\toks20
+\AM@pagecnt=\count286
+\AM@toc@title=\toks21
+\AM@lof@heading=\toks22
+\c@AM@survey=\count287
+\AM@templatesizebox=\box53
+) (./songs.sty
+Package: songs 2018/09/12 v3.1 Songs package
+
+(/usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
+Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
+)
+\SB@dimen=\dimen155
+\SB@dimenii=\dimen156
+\SB@dimeniii=\dimen157
+\SB@dimeniv=\dimen158
+\SB@box=\box54
+\SB@boxii=\box55
+\SB@boxiii=\box56
+\SB@toks=\toks23
+\SB@cnt=\count288
+\SB@cntii=\count289
+\SB@skip=\skip55
+\SB@envbox=\box57
+\c@songnum=\count290
+\c@versenum=\count291
+\versesep=\skip56
+\afterpreludeskip=\skip57
+\beforepostludeskip=\skip58
+\baselineadj=\skip59
+\idxheadwidth=\skip60
+\songnumwidth=\skip61
+\versenumwidth=\skip62
+\cbarwidth=\skip63
+\sbarheight=\skip64
+\vvpenalty=\count292
+\ccpenalty=\count293
+\vcpenalty=\count294
+\cvpenalty=\count295
+\brkpenalty=\count296
+\spenalty=\count297
+\minfrets=\count298
+\SB@colwidth=\dimen159
+\SB@songbox=\box58
+\SB@numcols=\count299
+\SB@colnum=\count300
+\SB@colbox=\box59
+\SB@pgbox=\box60
+\SB@mrkbox=\box61
+\SB@groupcnt=\count301
+\SB@titlelist=\toks24
+\SB@titletail=\toks25
+\SB@parindent=\dimen160
+\SB@chorusbox=\box62
+\SB@cmarkclass=\marks4
+\SB@nocmarkclass=\marks5
+\SB@grouplvl=\count302
+\SB@transposefactor=\count303
+\SB@lyric=\toks26
+\SB@numhyps=\count304
+\SB@lyricnohyp=\toks27
+\SB@lyricbox=\box63
+\SB@chordbox=\box64
+\SB@cr@=\toks28
+\SB@ctail=\toks29
+\SB@fretwidth=\skip65
+\SB@tabindent=\dimen161
+\c@SB@songsnum=\count305
+\SB@songwrites=\box65
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 3785.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 3785.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 3785.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 3785.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 3785.
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty
+(/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2025-01-18 L3 programming layer (loader) 
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count306
+\l__pdf_internal_box=\box66
+))
+Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
+
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2024-08-16 LaTeX2e option processing using LaTeX3 keys
+)
+(/usr/share/texlive/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
+Package: xparse 2024-08-16 L3 Experimental document command parser
+)
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/fontawesome5-generic-help
+er.sty
+Package: fontawesome5-generic-helper 2022/05/02 v5.15.4 non-uTeX helper for fon
+tawesome5
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/fontawesome5-mapping.def)
+)) (/usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
+
+\f@nch@headwidth=\skip66
+\f@nch@offset@elh=\skip67
+\f@nch@offset@erh=\skip68
+\f@nch@offset@olh=\skip69
+\f@nch@offset@orh=\skip70
+\f@nch@offset@elf=\skip71
+\f@nch@offset@erf=\skip72
+\f@nch@offset@olf=\skip73
+\f@nch@offset@orf=\skip74
+\f@nch@height=\skip75
+\f@nch@footalignment=\skip76
+\f@nch@widthL=\skip77
+\f@nch@widthC=\skip78
+\f@nch@widthR=\skip79
+\@temptokenb=\toks30
+)
+\SB@out=\write3
+\openout3 = `himnario.sxc'.
+
+
+(./himnario.aux)
+\openout1 = `himnario.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 63.
+LaTeX Font Info:    ... okay on input line 63.
+Package hyperref Info: Link coloring OFF on input line 63.
+ (./himnario.out) (./himnario.out)
+\@outlinefile=\write4
+\openout4 = `himnario.out'.
+
+
+(/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count307
+\scratchdimen=\dimen162
+\scratchbox=\box67
+\nofMPsegments=\count308
+\nofMParguments=\count309
+\everyMPshowfont=\toks31
+\MPscratchCnt=\count310
+\MPscratchDim=\dimen163
+\MPnumerator=\count311
+\makeMPintoPDFobject=\count312
+\everyMPtoPDFconversion=\toks32
+) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
+Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+
+(/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
+Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+F (HO)
+
+(/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
+Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 63.
+ (./cbtitle.sbx) (./cbtitle.sbx)
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+
+[2]
+
+[3] (./cbauth.sbx)
+
+[4
+
+] (./canciones.tex
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree2 on i
+nput line 13.
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree2.fd)
+LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on i
+nput line 28.
+
+(/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree0.fd)
+LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <6> not available
+(Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 29.
+
+
+
+
+[5
+
+
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free2.enc}{/usr/
+share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}]
+
+
+
+[6
+
+]
+
+
+
+[7
+
+
+]
+
+
+
+[8
+
+
+]
+
+
+
+[9
+
+
+]
+Overfull \hbox (1.09871pt too wide) in paragraph at lines 212--212
+[]\OT1/cmss/m/sl/17.28 AGRADECIMIENTO  
+ []
+
+
+
+
+
+[10
+
+]
+
+
+
+[11
+
+]
+
+
+
+[12
+
+]
+
+
+
+[13]
+
+
+
+[14
+
+]
+
+
+
+[15
+
+]
+
+
+
+[16
+
+]
+
+
+
+[17
+
+
+]
+
+
+
+[18
+
+]
+
+
+
+[19
+
+
+]
+
+
+
+[20
+
+]
+
+
+
+[21
+
+
+]
+
+
+
+[22
+
+]
+
+
+
+[23
+
+]
+
+
+
+[24
+
+]
+
+
+
+[25
+
+
+]
+
+
+
+[26
+
+]
+
+
+
+[27
+
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}
+
+]
+
+
+
+[28
+
+]
+
+
+
+[29
+
+]
+
+
+
+[30
+
+
+]
+
+
+
+[31
+
+]
+
+
+
+[32
+
+
+]
+
+
+
+[33
+
+
+]
+
+
+
+[34
+
+
+]
+
+
+
+[35
+
+]
+
+
+
+[36
+
+]
+
+
+
+[37
+
+]
+
+
+
+[38
+
+]
+
+
+
+[39
+
+]
+
+
+
+[40
+
+
+]
+
+
+
+[41
+
+]
+
+
+
+[42
+
+]
+
+
+
+[43
+
+
+]
+
+
+
+[44
+
+]
+
+
+
+[45
+
+]
+
+
+
+[46
+
+
+]
+
+
+
+[47
+
+
+]
+
+
+
+[48
+
+
+]
+
+
+
+[49
+
+
+]
+
+
+
+[50
+
+]
+
+
+
+[51
+
+]
+
+
+
+[52
+
+
+]
+
+
+
+[53
+
+]
+
+
+
+[54
+
+]
+
+
+
+[55
+
+]
+
+
+
+[56
+
+]
+
+
+
+[57
+
+
+]
+
+
+
+[58
+
+]
+
+
+
+[59
+
+
+]
+
+
+
+[60
+
+]
+
+
+
+[61
+
+]
+
+
+
+[62
+
+]
+
+
+
+[63
+
+]
+
+
+
+[64
+
+
+]
+
+
+
+[65
+
+]
+
+
+
+[66
+
+]
+
+
+
+[67
+
+]
+
+
+
+[68
+
+
+]
+
+
+
+[69
+
+
+]
+
+
+
+[70
+
+]
+
+
+
+[71
+
+
+]
+
+
+
+[72
+
+]
+
+
+
+[73
+
+]
+
+
+
+[74
+
+]
+
+
+
+[75
+
+]
+
+
+
+[76
+
+]
+
+
+
+[77
+
+]
+
+
+
+[78
+
+]
+
+
+
+[79
+
+
+]
+
+
+
+[80
+
+]
+
+
+
+[81
+
+]
+
+
+
+[82
+
+]
+
+
+
+[83
+
+
+]
+
+
+
+[84
+
+]
+
+
+
+[85
+
+]
+
+
+
+[86
+
+]
+
+
+
+[87
+
+]
+
+
+
+[88
+
+
+]
+
+
+
+[89
+
+
+]
+<hay poder.png, id=3173, 555.2745pt x 305.943pt>
+File: hay poder.png Graphic file (type png)
+<use hay poder.png>
+Package pdftex.def Info: hay poder.png  used on input line 2869.
+(pdftex.def)             Requested size: 190.0pt x 104.6868pt.
+
+Overfull \hbox (18.06749pt too wide) in paragraph at lines 2869--2870
+[][]  
+ []
+
+
+
+
+
+[90
+
+ <./hay poder.png>]
+
+
+
+[91
+
+]
+
+
+
+[92
+
+]
+
+
+
+[93
+
+]
+
+
+
+[94
+
+
+]
+
+
+
+[95
+
+]
+
+
+
+[96
+
+
+]
+
+
+
+[97
+
+]
+
+
+
+[98
+
+]
+
+
+
+[99
+
+]
+
+
+
+[100
+
+]
+
+
+
+[101
+
+]
+
+
+
+[102
+
+]
+
+
+
+[103
+
+]
+
+
+
+[104
+
+
+]
+
+
+
+[105
+
+
+]
+
+
+
+[106
+
+
+]
+
+
+
+[107
+
+]
+
+
+
+[108
+
+]
+
+
+
+[109
+
+]
+
+
+
+[110
+
+
+]
+
+
+
+[111
+
+]
+
+
+
+[112
+
+
+]
+
+
+
+[113
+
+]
+
+
+
+[114
+
+
+]
+
+
+
+[115
+
+]
+
+
+
+[116
+
+
+]
+
+
+
+[117
+
+]
+
+
+
+[118
+
+]
+
+
+
+[119]
+
+
+
+[120
+
+
+]
+
+
+
+[121
+
+]
+
+
+
+[122
+
+]
+
+
+
+[123
+
+]
+
+
+
+[124
+
+]
+
+
+
+[125
+
+]
+
+
+
+[126
+
+]
+
+
+
+[127
+
+]
+
+
+
+[128
+
+
+]
+
+
+
+[129
+
+]
+
+
+
+[130
+
+
+]
+
+
+
+[131
+
+]
+
+
+
+[132
+
+
+]
+
+
+
+[133
+
+
+]
+
+
+
+[134
+
+]
+
+
+
+[135
+
+]
+
+
+
+[136
+
+]
+
+
+
+[137]
+
+
+
+[138
+
+]
+
+
+
+[139]
+
+
+
+[140
+
+
+]
+
+
+
+[141
+
+]
+
+
+
+[142
+
+
+]
+
+
+
+[143
+
+]
+
+
+
+[144
+
+]
+
+
+
+[145
+
+
+]
+Overfull \hbox (11.8617pt too wide) in paragraph at lines 4777--4777
+ [] \OT1/cmr/m/n/12 Tengo un ho[][] 
+ []
+
+
+Overfull \hbox (24.7058pt too wide) in paragraph at lines 4778--4778
+ [] \OT1/cmr/m/n/12 del sombr^^S^^Po [][]  
+ []
+
+
+Overfull \hbox (25.68495pt too wide) in paragraph at lines 4780--4780
+ [] \OT1/cmr/m/n/12 les abraza[][]  
+ []
+
+
+
+
+
+[146
+
+
+]
+
+
+
+[147
+
+
+]
+
+
+
+[148
+
+]
+
+
+
+[149
+
+]
+
+
+
+[150
+
+
+]
+
+
+
+[151
+
+
+]
+
+
+
+[152
+
+]
+
+
+
+[153
+
+]
+
+
+
+[154
+
+
+]
+
+
+
+[155
+
+]
+
+
+
+[156
+
+]
+
+
+
+[157
+
+
+]
+
+
+
+[158
+
+
+]
+
+
+
+[159
+
+]
+
+
+
+[160
+
+]
+
+
+
+[161
+
+
+]
+
+
+
+[162
+
+
+]
+
+
+
+[163
+
+
+]
+
+
+
+[164
+
+
+]
+
+
+
+[165
+
+]
+
+
+
+[166
+
+]
+
+
+
+[167
+
+
+]
+
+
+
+[168
+
+
+])
+\openout3 = `cbtitle.sxd'.
+
+ (./himnario.sxc)
+\openout3 = `cbauth.sxd'.
+
+ (./himnario.sxc) (./himnario.aux)
+ ***********
+LaTeX2e <2024-11-01> patch level 2
+L3 programming layer <2025-01-18>
+ ***********
+Package rerunfilecheck Info: File `himnario.out' has not changed.
+(rerunfilecheck)             Checksum: 1B4B1A7220A6513E53BADF5582C8F4B3;27188.
+ ) 
+Here is how much of TeX's memory you used:
+ 14817 strings out of 475002
+ 247171 string characters out of 5762004
+ 673726 words of memory out of 5000000
+ 37332 multiletter control sequences out of 15000+600000
+ 570243 words of font info for 72 fonts, out of 8000000 for 9000
+ 107 hyphenation exceptions out of 8191
+ 75i,7n,79p,1530b,820s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Fr
+ee-Solid.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx
+10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-di
+st/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type
+1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
+blic/amsfonts/cm/cmssi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmssi17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
+/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12
+.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/tex
+mf/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on himnario.pdf (168 pages, 641103 bytes).
+PDF statistics:
+ 3660 PDF objects out of 4296 (max. 8388607)
+ 1558 compressed objects within 16 object streams
+ 322 named destinations out of 1000 (max. 500000)
+ 1230 words of extra memory for PDF output out of 10000 (max. 10000000)
+

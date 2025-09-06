@@ -1,0 +1,99 @@
+\message{ !name(himnario.tex)}\documentclass[12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[bookmarks]{hyperref}
+% \usepackage[T1]{fontenc}
+\usepackage[dvipsnames]{xcolor}
+%\usepackage{graphicx}
+ \usepackage{pdfpages}
+\usepackage[chorded]{songs}
+\usepackage[fixed]{fontawesome5}
+\usepackage{fancyhdr}
+%\usepackage{musixtex}
+%\pagestyle{fancy}
+%\fancyhf{} 
+%\fancyhead[LO]{\helv\rightmark}
+%\fancyhead[RE]{\helv\leftmark}
+
+%\setlength{\oddsidemargin}{0in} \setlength{\evensidemargin}{0in}
+%\setlength{\textwidth}{6.5in} \setlength{\topmargin}{0in}
+%\setlength{\topskip}{0in} \setlength{\headheight}{0in}
+%\setlength{\headsep}{0in} \setlength{\textheight}{9.1in}
+%\settowidth{\versenumwidth}{0.5cm }
+ 
+%\setlength{\versenumwidth}{12pt}
+%\renewcommand{\theversenum}{\Roman{versenum}}
+%\renewcommand{\printversenum}[1]{\it\LARGE#1.\ }
+\pagestyle{empty}
+
+% \renewcommand{\songsection}{\section}
+\renewcommand{\notebgcolor}{gray}
+\renewcommand{\textnote}{\small}
+%\renewcommand{\snumbgcolor}{blue}
+\renewcommand{\theversenum}{\Roman{versenum}}
+%\renewcommand{\printchord}[1]{\textcolor{NavyBlue}{\bf{#1}}}
+\renewcommand{\printchord}[1]{\textcolor{blue}{\bf{#1}}}
+%\renewcommand{\printchord\everychorus}[1]{\textcolor{Red}{\scriptsize\bf{#1}}}
+\renewcommand{\chorusfont}{\it}
+% \renewcommand{\everychorus}{Coro}
+\renewcommand{\printsongnum}[1]{\bf\LARGE#1}
+\setcounter{versenum}{0}
+
+
+% letra de la cancion
+\renewcommand{\lyricfont}{}
+% ancho de la linea que aparaece en cada coro
+\setlength{\cbarwidth}{1.5pt}
+
+\renewcommand{\everychorus}{$\faCaretSquareRight$}
+\renewcommand{\everyverse}[1]{$\faMusic$ }
+
+
+
+
+\notenamesin{A}{B}{C}{D}{E}{F}{G}
+%\notenamesout{LA}{SI}{DO}{RE}{MI}{FA}{SOL}
+
+\newindex{titleidx}{cbtitle}
+\newauthorindex{authidx}{cbauth}
+%\newscripindex{scripidx}{cbscrip}
+
+%\noversenumbers
+% \newindex{indice}{indice}
+\title{HIMNARIO} \author{Tabernaculo Cali}
+\begin{document}
+
+\message{ !name(canciones.tex) !offset(-3) }
+ong
+
+  
+\beginsong{ABRE MIS OJOS}[by={Adoración,D}]
+
+\gtab{D}{X00232:XXX132}
+\gtab{Em}{022000:X23XXX}
+\gtab{A7}{X02020:XX2X3X}
+\gtab{D/C#}{X4X232:X4X132}
+\gtab{Bm}{X(24432):X13421}
+
+\beginverse
+\[D] Abre mis \[Em]ojos
+\[A7] quiero ver a \[D]Cris\[D/C#]to \[Bm]
+poderle to\[Em]car
+\[A7] decirle te \[D]amo.
+\endverse
+
+\beginverse
+Abre mi oído
+ayúdame a oírte
+yo quiero sentirte
+muy dentro de mí.
+\endverse
+\clearpage
+\ends
+\message{ !name(himnario.tex) !offset(-19) }
+
+\end{document}
+
+%%% Local Variables:
+%%% mode: latex
+%%% TeX-master: t
+%%% End:
