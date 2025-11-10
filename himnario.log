@@ -1,27 +1,27 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex 2025.6.28)  2 AUG 2025 23:26
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (TeX Live 2025/Debian) (preloaded format=pdflatex 2025.9.5)  8 NOV 2025 22:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **himnario.tex
 (./himnario.tex
-LaTeX2e <2024-11-01> patch level 2
-L3 programming layer <2025-01-18>
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-07-19>
 (/usr/share/texlive/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2024/06/29 v1.4n Standard LaTeX document class
-(/usr/share/texlive/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2024/06/29 v1.4n Standard LaTeX file (size option)
+Document Class: article 2025/01/22 v1.4n Standard LaTeX document class
+(/usr/share/texlive/texmf-dist/tex/latex/base/size10.clo
+File: size10.clo 2025/01/22 v1.4n Standard LaTeX file (size option)
 )
-\c@part=\count196
-\c@section=\count197
-\c@subsection=\count198
-\c@subsubsection=\count199
-\c@paragraph=\count266
-\c@subparagraph=\count267
-\c@figure=\count268
-\c@table=\count269
+\c@part=\count275
+\c@section=\count276
+\c@subsection=\count277
+\c@subsubsection=\count278
+\c@paragraph=\count279
+\c@subparagraph=\count280
+\c@figure=\count281
+\c@table=\count282
 \abovecaptionskip=\skip49
 \belowcaptionskip=\skip50
-\bibindent=\dimen141
+\bibindent=\dimen148
 )
 (/usr/share/texlive/texmf-dist/tex/latex/base/inputenc.sty
 Package: inputenc 2024/02/08 v1.3d Input encoding file
@@ -29,7 +29,7 @@ Package: inputenc 2024/02/08 v1.3d Input encoding file
 \inpenc@posthook=\toks18
 )
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hyperref.sty
-Package: hyperref 2024-11-05 v7.01l Hypertext links for LaTeX
+Package: hyperref 2025-07-12 v7.01o Hypertext links for LaTeX
 
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/iftex.sty
 Package: iftex 2024/12/12 v1.0g TeX engine tests
@@ -65,7 +65,7 @@ Package pdftexcmds Info: \pdfdraftmode found.
 Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/nameref.sty
-Package: nameref 2023-11-26 v2.56 Cross-referencing by name of section
+Package: nameref 2025-06-21 v2.57 Cross-referencing by name of section
 
 (/usr/share/texlive/texmf-dist/tex/latex/refcount/refcount.sty
 Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
@@ -76,51 +76,51 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 (/usr/share/texlive/texmf-dist/tex/latex/kvoptions/kvoptions.sty
 Package: kvoptions 2022-06-15 v3.15 Key value format for package options (HO)
 ))
-\c@section@level=\count270
+\c@section@level=\count283
 )
 (/usr/share/texlive/texmf-dist/tex/latex/etoolbox/etoolbox.sty
 Package: etoolbox 2025/02/11 v2.5l e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count271
+\etb@tempcnta=\count284
 )
 (/usr/share/texlive/texmf-dist/tex/generic/stringenc/stringenc.sty
 Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO
 )
 )
-\@linkdim=\dimen142
-\Hy@linkcounter=\count272
-\Hy@pagecounter=\count273
+\@linkdim=\dimen149
+\Hy@linkcounter=\count285
+\Hy@pagecounter=\count286
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/pd1enc.def
-File: pd1enc.def 2024-11-05 v7.01l Hyperref: PDFDocEncoding definition (HO)
+File: pd1enc.def 2025-07-12 v7.01o Hyperref: PDFDocEncoding definition (HO)
 Now handling font encoding PD1 ...
 ... no UTF-8 mapping file for font encoding PD1
 )
 (/usr/share/texlive/texmf-dist/tex/generic/intcalc/intcalc.sty
 Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
 )
-\Hy@SavedSpaceFactor=\count274
+\Hy@SavedSpaceFactor=\count287
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/puenc.def
-File: puenc.def 2024-11-05 v7.01l Hyperref: PDF Unicode definition (HO)
+File: puenc.def 2025-07-12 v7.01o Hyperref: PDF Unicode definition (HO)
 Now handling font encoding PU ...
 ... no UTF-8 mapping file for font encoding PU
 )
-Package hyperref Info: Option `bookmarks' set `true' on input line 4040.
-Package hyperref Info: Hyper figures OFF on input line 4157.
-Package hyperref Info: Link nesting OFF on input line 4162.
-Package hyperref Info: Hyper index ON on input line 4165.
-Package hyperref Info: Plain pages OFF on input line 4172.
-Package hyperref Info: Backreferencing OFF on input line 4177.
+Package hyperref Info: Option `bookmarks' set `true' on input line 4066.
+Package hyperref Info: Hyper figures OFF on input line 4195.
+Package hyperref Info: Link nesting OFF on input line 4200.
+Package hyperref Info: Hyper index ON on input line 4203.
+Package hyperref Info: Plain pages OFF on input line 4210.
+Package hyperref Info: Backreferencing OFF on input line 4215.
 Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
-Package hyperref Info: Bookmarks ON on input line 4424.
-\c@Hy@tempcnt=\count275
+Package hyperref Info: Bookmarks ON on input line 4462.
+\c@Hy@tempcnt=\count288
 
 (/usr/share/texlive/texmf-dist/tex/latex/url/url.sty
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-LaTeX Info: Redefining \url on input line 4763.
-\XeTeXLinkMargin=\dimen143
+LaTeX Info: Redefining \url on input line 4801.
+\XeTeXLinkMargin=\dimen150
 
 (/usr/share/texlive/texmf-dist/tex/generic/bitset/bitset.sty
 Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
@@ -129,46 +129,35 @@ Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
 Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
 )
 ))
-\Fld@menulength=\count276
-\Field@Width=\dimen144
-\Fld@charsize=\dimen145
-Package hyperref Info: Hyper figures OFF on input line 6042.
-Package hyperref Info: Link nesting OFF on input line 6047.
-Package hyperref Info: Hyper index ON on input line 6050.
-Package hyperref Info: backreferencing OFF on input line 6057.
-Package hyperref Info: Link coloring OFF on input line 6062.
-Package hyperref Info: Link coloring with OCG OFF on input line 6067.
-Package hyperref Info: PDF/A mode OFF on input line 6072.
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/atbegshi-ltx.sty
-Package: atbegshi-ltx 2021/01/10 v1.0c Emulation of the original atbegshi
-package with kernel methods
-)
-\Hy@abspage=\count277
-\c@Item=\count278
-\c@Hfootnote=\count279
+\Fld@menulength=\count289
+\Field@Width=\dimen151
+\Fld@charsize=\dimen152
+Package hyperref Info: Hyper figures OFF on input line 6078.
+Package hyperref Info: Link nesting OFF on input line 6083.
+Package hyperref Info: Hyper index ON on input line 6086.
+Package hyperref Info: backreferencing OFF on input line 6093.
+Package hyperref Info: Link coloring OFF on input line 6098.
+Package hyperref Info: Link coloring with OCG OFF on input line 6103.
+Package hyperref Info: PDF/A mode OFF on input line 6108.
+\Hy@abspage=\count290
+\c@Item=\count291
+\c@Hfootnote=\count292
 )
 Package hyperref Info: Driver (autodetected): hpdftex.
 
 (/usr/share/texlive/texmf-dist/tex/latex/hyperref/hpdftex.def
-File: hpdftex.def 2024-11-05 v7.01l Hyperref driver for pdfTeX
-
-(/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty
-Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atveryend pac
-kage
-with kernel methods
-)
-\Fld@listcount=\count280
-\c@bookmark@seq@number=\count281
+File: hpdftex.def 2025-07-12 v7.01o Hyperref driver for pdfTeX
+\Fld@listcount=\count293
+\c@bookmark@seq@number=\count294
 
 (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
-Package: rerunfilecheck 2022-07-10 v1.10 Rerun checks for auxiliary files (HO)
+Package: rerunfilecheck 2025-06-21 v1.11 Rerun checks for auxiliary files (HO)
 
 (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
 )
 Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
-85.
+84.
 )
 \Hy@SectionHShift=\skip51
 )
@@ -198,31 +187,31 @@ Package xcolor Info: Model `wave' substituted by `hsb' on input line 1372.
 File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pdfpages.sty
-Package: pdfpages 2025/01/30 v0.6e Insert pages of external PDF documents (AM)
+Package: pdfpages 2025/07/23 v0.6g Insert pages of external PDF documents (AM)
 
 (/usr/share/texlive/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2024/03/16 v1.1e Standard LaTeX ifthen package (DPC)
 )
 (/usr/share/texlive/texmf-dist/tex/latex/tools/calc.sty
-Package: calc 2023/07/08 v4.3 Infix arithmetic (KKT,FJ)
-\calc@Acount=\count282
-\calc@Bcount=\count283
-\calc@Adimen=\dimen146
-\calc@Bdimen=\dimen147
+Package: calc 2025/03/01 v4.3b Infix arithmetic (KKT,FJ)
+\calc@Acount=\count295
+\calc@Bcount=\count296
+\calc@Adimen=\dimen153
+\calc@Bdimen=\dimen154
 \calc@Askip=\skip52
 \calc@Bskip=\skip53
-LaTeX Info: Redefining \setlength on input line 80.
-LaTeX Info: Redefining \addtolength on input line 81.
-\calc@Ccount=\count284
+LaTeX Info: Redefining \setlength on input line 86.
+LaTeX Info: Redefining \addtolength on input line 87.
+\calc@Ccount=\count297
 \calc@Cskip=\skip54
 )
 (/usr/share/texlive/texmf-dist/tex/latex/eso-pic/eso-pic.sty
 Package: eso-pic 2023/05/03 v3.0c eso-pic (RN)
-\ESO@tempdima=\dimen148
-\ESO@tempdimb=\dimen149
+\ESO@tempdima=\dimen155
+\ESO@tempdimb=\dimen156
 )
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphicx.sty
-Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+Package: graphicx 2024/12/31 v1.2e Enhanced LaTeX Graphics (DPC,SPQR)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/graphics.sty
 Package: graphics 2024/08/06 v1.4g Standard LaTeX Graphics (DPC,SPQR)
@@ -235,44 +224,44 @@ File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
 )
 Package graphics Info: Driver file: pdftex.def on input line 106.
 )
-\Gin@req@height=\dimen150
-\Gin@req@width=\dimen151
+\Gin@req@height=\dimen157
+\Gin@req@width=\dimen158
 )
-\AM@pagewidth=\dimen152
-\AM@pageheight=\dimen153
-\AM@fboxrule=\dimen154
+\AM@pagewidth=\dimen159
+\AM@pageheight=\dimen160
+\AM@fboxrule=\dimen161
 
 (/usr/share/texlive/texmf-dist/tex/latex/pdfpages/pppdftex.def
-File: pppdftex.def 2025/01/30 v0.6e Pdfpages driver for pdfTeX (AM)
+File: pppdftex.def 2025/07/23 v0.6g Pdfpages driver for pdfTeX (AM)
 )
-\pdfpages@includegraphics@status=\count285
-\AM@pagebox=\box52
+\pdfpages@includegraphics@status=\count298
+\AM@pagebox=\box53
 \AM@global@opts=\toks20
-\AM@pagecnt=\count286
+\AM@pagecnt=\count299
 \AM@toc@title=\toks21
 \AM@lof@heading=\toks22
-\c@AM@survey=\count287
-\AM@templatesizebox=\box53
+\c@AM@survey=\count300
+\AM@templatesizebox=\box54
 ) (./songs.sty
 Package: songs 2018/09/12 v3.1 Songs package
 
 (/usr/share/texlive/texmf-dist/tex/generic/iftex/ifpdf.sty
 Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
 )
-\SB@dimen=\dimen155
-\SB@dimenii=\dimen156
-\SB@dimeniii=\dimen157
-\SB@dimeniv=\dimen158
-\SB@box=\box54
-\SB@boxii=\box55
-\SB@boxiii=\box56
+\SB@dimen=\dimen162
+\SB@dimenii=\dimen163
+\SB@dimeniii=\dimen164
+\SB@dimeniv=\dimen165
+\SB@box=\box55
+\SB@boxii=\box56
+\SB@boxiii=\box57
 \SB@toks=\toks23
-\SB@cnt=\count288
-\SB@cntii=\count289
+\SB@cnt=\count301
+\SB@cntii=\count302
 \SB@skip=\skip55
-\SB@envbox=\box57
-\c@songnum=\count290
-\c@versenum=\count291
+\SB@envbox=\box58
+\c@songnum=\count303
+\c@versenum=\count304
 \versesep=\skip56
 \afterpreludeskip=\skip57
 \beforepostludeskip=\skip58
@@ -282,59 +271,57 @@ Package: ifpdf 2019/10/25 v3.4 ifpdf legacy package. Use iftex instead.
 \versenumwidth=\skip62
 \cbarwidth=\skip63
 \sbarheight=\skip64
-\vvpenalty=\count292
-\ccpenalty=\count293
-\vcpenalty=\count294
-\cvpenalty=\count295
-\brkpenalty=\count296
-\spenalty=\count297
-\minfrets=\count298
-\SB@colwidth=\dimen159
-\SB@songbox=\box58
-\SB@numcols=\count299
-\SB@colnum=\count300
-\SB@colbox=\box59
-\SB@pgbox=\box60
-\SB@mrkbox=\box61
-\SB@groupcnt=\count301
+\vvpenalty=\count305
+\ccpenalty=\count306
+\vcpenalty=\count307
+\cvpenalty=\count308
+\brkpenalty=\count309
+\spenalty=\count310
+\minfrets=\count311
+\SB@colwidth=\dimen166
+\SB@songbox=\box59
+\SB@numcols=\count312
+\SB@colnum=\count313
+\SB@colbox=\box60
+\SB@pgbox=\box61
+\SB@mrkbox=\box62
+\SB@groupcnt=\count314
 \SB@titlelist=\toks24
 \SB@titletail=\toks25
-\SB@parindent=\dimen160
-\SB@chorusbox=\box62
+\SB@parindent=\dimen167
+\SB@chorusbox=\box63
 \SB@cmarkclass=\marks4
 \SB@nocmarkclass=\marks5
-\SB@grouplvl=\count302
-\SB@transposefactor=\count303
+\SB@grouplvl=\count315
+\SB@transposefactor=\count316
 \SB@lyric=\toks26
-\SB@numhyps=\count304
+\SB@numhyps=\count317
 \SB@lyricnohyp=\toks27
-\SB@lyricbox=\box63
-\SB@chordbox=\box64
+\SB@lyricbox=\box64
+\SB@chordbox=\box65
 \SB@cr@=\toks28
 \SB@ctail=\toks29
 \SB@fretwidth=\skip65
-\SB@tabindent=\dimen161
-\c@SB@songsnum=\count305
-\SB@songwrites=\box65
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <14.4> on input line 3785.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 3785.
+\SB@tabindent=\dimen168
+\c@SB@songsnum=\count318
+\SB@songwrites=\box66
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <12> on input line 3785.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 3785.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 3785.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 3785.
 )
+==> First Aid for songs.sty applied!
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty
 (/usr/share/texlive/texmf-dist/tex/latex/l3kernel/expl3.sty
-Package: expl3 2025-01-18 L3 programming layer (loader) 
+Package: expl3 2025-07-19 L3 programming layer (loader) 
 
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2024-05-08 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count306
-\l__pdf_internal_box=\box66
+File: l3backend-pdftex.def 2025-06-09 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count319
 ))
 Package: fontawesome5 2022/05/02 v5.15.4 Font Awesome 5
 
@@ -373,6 +360,10 @@ Package: fancyhdr 2025/02/07 v5.2 Extensive control of page headers and footers
 \openout3 = `himnario.sxc'.
 
 
+
+LaTeX Warning: Unused global option(s):
+    [9t].
+
 (./himnario.aux)
 \openout1 = `himnario.aux'.
 
@@ -402,16 +393,16 @@ Package hyperref Info: Link coloring OFF on input line 63.
 
 (/usr/share/texlive/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count307
-\scratchdimen=\dimen162
+\scratchcounter=\count320
+\scratchdimen=\dimen169
 \scratchbox=\box67
-\nofMPsegments=\count308
-\nofMParguments=\count309
+\nofMPsegments=\count321
+\nofMParguments=\count322
 \everyMPshowfont=\toks31
-\MPscratchCnt=\count310
-\MPscratchDim=\dimen163
-\MPnumerator=\count311
-\makeMPintoPDFobject=\count312
+\MPscratchCnt=\count323
+\MPscratchDim=\dimen170
+\MPnumerator=\count324
+\makeMPintoPDFobject=\count325
 \everyMPtoPDFconversion=\toks32
 ) (/usr/share/texlive/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -423,10 +414,10 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 (/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape.sty
-Package: pdflscape 2022-10-27 v0.13 Display of landscape pages in PDF
+Package: pdflscape 2025-06-23 v0.14 Display of landscape pages in PDF
 
 (/usr/share/texlive/texmf-dist/tex/latex/pdflscape/pdflscape-nometadata.sty
-Package: pdflscape-nometadata 2022-10-28 v0.13 Display of landscape pages in PD
+Package: pdflscape-nometadata 2025-06-23 v0.14 Display of landscape pages in PD
 F (HO)
 
 (/usr/share/texlive/texmf-dist/tex/latex/graphics/lscape.sty
@@ -435,7 +426,11 @@ Package: lscape 2020/05/28 v3.02 Landscape Pages (DPC)
 Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 ))
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 63.
+(Font)              <7> on input line 63.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 63.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <9> on input line 63.
  (./cbtitle.sbx) (./cbtitle.sbx)
 
 [1
@@ -457,7 +452,7 @@ LaTeX Font Info:    Trying to load font information for U+fontawesomefree0 on i
 nput line 28.
 
 (/usr/share/texlive/texmf-dist/tex/latex/fontawesome5/ufontawesomefree0.fd)
-LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <6> not available
+LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <5> not available
 (Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 29.
 
 
@@ -495,11 +490,6 @@ share/texlive/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free0.enc}]
 
 
 ]
-Overfull \hbox (1.09871pt too wide) in paragraph at lines 212--212
-[]\OT1/cmss/m/sl/17.28 AGRADECIMIENTO  
- []
-
-
 
 
 
@@ -521,7 +511,9 @@ Overfull \hbox (1.09871pt too wide) in paragraph at lines 212--212
 
 
 
-[13]
+[13
+
+]
 
 
 
@@ -539,12 +531,12 @@ Overfull \hbox (1.09871pt too wide) in paragraph at lines 212--212
 
 [16
 
+
 ]
 
 
 
 [17
-
 
 ]
 
@@ -552,12 +544,12 @@ Overfull \hbox (1.09871pt too wide) in paragraph at lines 212--212
 
 [18
 
+
 ]
 
 
 
 [19
-
 
 ]
 
@@ -565,12 +557,12 @@ Overfull \hbox (1.09871pt too wide) in paragraph at lines 212--212
 
 [20
 
+
 ]
 
 
 
 [21
-
 
 ]
 
@@ -590,6 +582,7 @@ Overfull \hbox (1.09871pt too wide) in paragraph at lines 212--212
 
 [24
 
+
 ]
 
 
@@ -603,13 +596,13 @@ Overfull \hbox (1.09871pt too wide) in paragraph at lines 212--212
 
 [26
 
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}
+
 ]
 
 
 
 [27
-
-{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}
 
 ]
 
@@ -617,11 +610,13 @@ Overfull \hbox (1.09871pt too wide) in paragraph at lines 212--212
 
 [28
 
+
 ]
 
 
 
 [29
+
 
 ]
 
@@ -629,12 +624,12 @@ Overfull \hbox (1.09871pt too wide) in paragraph at lines 212--212
 
 [30
 
-
 ]
 
 
 
 [31
+
 
 ]
 
@@ -655,7 +650,6 @@ Overfull \hbox (1.09871pt too wide) in paragraph at lines 212--212
 
 
 [34
-
 
 ]
 
@@ -681,11 +675,13 @@ Overfull \hbox (1.09871pt too wide) in paragraph at lines 212--212
 
 [38
 
+
 ]
 
 
 
 [39
+
 
 ]
 
@@ -693,12 +689,12 @@ Overfull \hbox (1.09871pt too wide) in paragraph at lines 212--212
 
 [40
 
-
 ]
 
 
 
 [41
+
 
 ]
 
@@ -712,18 +708,19 @@ Overfull \hbox (1.09871pt too wide) in paragraph at lines 212--212
 
 [43
 
-
 ]
 
 
 
 [44
 
+
 ]
 
 
 
 [45
+
 
 ]
 
@@ -745,19 +742,18 @@ Overfull \hbox (1.09871pt too wide) in paragraph at lines 212--212
 
 [48
 
-
 ]
 
 
 
 [49
 
-
 ]
 
 
 
 [50
+
 
 ]
 
@@ -771,12 +767,12 @@ Overfull \hbox (1.09871pt too wide) in paragraph at lines 212--212
 
 [52
 
-
 ]
 
 
 
 [53
+
 
 ]
 
@@ -790,11 +786,13 @@ Overfull \hbox (1.09871pt too wide) in paragraph at lines 212--212
 
 [55
 
+
 ]
 
 
 
 [56
+
 
 ]
 
@@ -815,7 +813,6 @@ Overfull \hbox (1.09871pt too wide) in paragraph at lines 212--212
 
 [59
 
-
 ]
 
 
@@ -834,6 +831,7 @@ Overfull \hbox (1.09871pt too wide) in paragraph at lines 212--212
 
 [62
 
+
 ]
 
 
@@ -846,12 +844,12 @@ Overfull \hbox (1.09871pt too wide) in paragraph at lines 212--212
 
 [64
 
-
 ]
 
 
 
 [65
+
 
 ]
 
@@ -859,18 +857,19 @@ Overfull \hbox (1.09871pt too wide) in paragraph at lines 212--212
 
 [66
 
+
 ]
 
 
 
 [67
 
+
 ]
 
 
 
 [68
-
 
 ]
 
@@ -885,12 +884,12 @@ Overfull \hbox (1.09871pt too wide) in paragraph at lines 212--212
 
 [70
 
+
 ]
 
 
 
 [71
-
 
 ]
 
@@ -903,6 +902,7 @@ Overfull \hbox (1.09871pt too wide) in paragraph at lines 212--212
 
 
 [73
+
 
 ]
 
@@ -922,6 +922,7 @@ Overfull \hbox (1.09871pt too wide) in paragraph at lines 212--212
 
 [76
 
+
 ]
 
 
@@ -940,12 +941,12 @@ Overfull \hbox (1.09871pt too wide) in paragraph at lines 212--212
 
 [79
 
-
 ]
 
 
 
 [80
+
 
 ]
 
@@ -959,12 +960,12 @@ Overfull \hbox (1.09871pt too wide) in paragraph at lines 212--212
 
 [82
 
+
 ]
 
 
 
 [83
-
 
 ]
 
@@ -978,40 +979,22 @@ Overfull \hbox (1.09871pt too wide) in paragraph at lines 212--212
 
 [85
 
+
 ]
 
 
 
 [86
 
-]
-
-
-
-[87
 
 ]
-
-
-
-[88
-
-
-]
-
-
-
-[89
-
-
-]
-<hay poder.png, id=3173, 555.2745pt x 305.943pt>
+<hay poder.png, id=3157, 555.2745pt x 305.943pt>
 File: hay poder.png Graphic file (type png)
 <use hay poder.png>
-Package pdftex.def Info: hay poder.png  used on input line 2869.
-(pdftex.def)             Requested size: 190.0pt x 104.6868pt.
+Package pdftex.def Info: hay poder.png  used on input line 2916.
+(pdftex.def)             Requested size: 167.5pt x 92.28777pt.
 
-Overfull \hbox (18.06749pt too wide) in paragraph at lines 2869--2870
+Overfull \hbox (18.06749pt too wide) in paragraph at lines 2916--2917
 [][]  
  []
 
@@ -1019,13 +1002,32 @@ Overfull \hbox (18.06749pt too wide) in paragraph at lines 2869--2870
 
 
 
-[90
+[87
 
  <./hay poder.png>]
 
 
 
+[88
+
+]
+
+
+
+[89
+
+]
+
+
+
+[90
+
+]
+
+
+
 [91
+
 
 ]
 
@@ -1033,18 +1035,19 @@ Overfull \hbox (18.06749pt too wide) in paragraph at lines 2869--2870
 
 [92
 
+
 ]
 
 
 
 [93
 
+
 ]
 
 
 
 [94
-
 
 ]
 
@@ -1057,7 +1060,6 @@ Overfull \hbox (18.06749pt too wide) in paragraph at lines 2869--2870
 
 
 [96
-
 
 ]
 
@@ -1077,11 +1079,13 @@ Overfull \hbox (18.06749pt too wide) in paragraph at lines 2869--2870
 
 [99
 
+
 ]
 
 
 
 [100
+
 
 ]
 
@@ -1089,11 +1093,13 @@ Overfull \hbox (18.06749pt too wide) in paragraph at lines 2869--2870
 
 [101
 
+
 ]
 
 
 
 [102
+
 
 ]
 
@@ -1101,12 +1107,12 @@ Overfull \hbox (18.06749pt too wide) in paragraph at lines 2869--2870
 
 [103
 
+
 ]
 
 
 
 [104
-
 
 ]
 
@@ -1114,19 +1120,18 @@ Overfull \hbox (18.06749pt too wide) in paragraph at lines 2869--2870
 
 [105
 
-
 ]
 
 
 
 [106
 
-
 ]
 
 
 
 [107
+
 
 ]
 
@@ -1140,12 +1145,12 @@ Overfull \hbox (18.06749pt too wide) in paragraph at lines 2869--2870
 
 [109
 
+
 ]
 
 
 
 [110
-
 
 ]
 
@@ -1153,18 +1158,19 @@ Overfull \hbox (18.06749pt too wide) in paragraph at lines 2869--2870
 
 [111
 
+
 ]
 
 
 
 [112
 
-
 ]
 
 
 
 [113
+
 
 ]
 
@@ -1185,12 +1191,12 @@ Overfull \hbox (18.06749pt too wide) in paragraph at lines 2869--2870
 
 [116
 
-
 ]
 
 
 
 [117
+
 
 ]
 
@@ -1202,12 +1208,13 @@ Overfull \hbox (18.06749pt too wide) in paragraph at lines 2869--2870
 
 
 
-[119]
+[119
+
+]
 
 
 
 [120
-
 
 ]
 
@@ -1221,11 +1228,13 @@ Overfull \hbox (18.06749pt too wide) in paragraph at lines 2869--2870
 
 [122
 
+
 ]
 
 
 
 [123
+
 
 ]
 
@@ -1233,11 +1242,13 @@ Overfull \hbox (18.06749pt too wide) in paragraph at lines 2869--2870
 
 [124
 
+
 ]
 
 
 
 [125
+
 
 ]
 
@@ -1245,11 +1256,13 @@ Overfull \hbox (18.06749pt too wide) in paragraph at lines 2869--2870
 
 [126
 
+
 ]
 
 
 
 [127
+
 
 ]
 
@@ -1264,12 +1277,12 @@ Overfull \hbox (18.06749pt too wide) in paragraph at lines 2869--2870
 
 [129
 
+
 ]
 
 
 
 [130
-
 
 ]
 
@@ -1283,13 +1296,11 @@ Overfull \hbox (18.06749pt too wide) in paragraph at lines 2869--2870
 
 [132
 
-
 ]
 
 
 
 [133
-
 
 ]
 
@@ -1309,21 +1320,27 @@ Overfull \hbox (18.06749pt too wide) in paragraph at lines 2869--2870
 
 [136
 
+
 ]
 
 
 
-[137]
+[137
+
+]
 
 
 
 [138
 
+
 ]
 
 
 
-[139]
+[139
+
+]
 
 
 
@@ -1331,10 +1348,21 @@ Overfull \hbox (18.06749pt too wide) in paragraph at lines 2869--2870
 
 
 ]
+Overfull \hbox (7.0841pt too wide) in paragraph at lines 4824--4824
+ [] \OT1/cmr/m/n/10 Tengo un ho[][] 
+ []
+
+
+Overfull \hbox (18.88147pt too wide) in paragraph at lines 4827--4827
+ [] \OT1/cmr/m/n/10 les abraza[][]  
+ []
+
+
 
 
 
 [141
+
 
 ]
 
@@ -1355,6 +1383,7 @@ Overfull \hbox (18.06749pt too wide) in paragraph at lines 2869--2870
 
 [144
 
+
 ]
 
 
@@ -1363,21 +1392,6 @@ Overfull \hbox (18.06749pt too wide) in paragraph at lines 2869--2870
 
 
 ]
-Overfull \hbox (11.8617pt too wide) in paragraph at lines 4777--4777
- [] \OT1/cmr/m/n/12 Tengo un ho[][] 
- []
-
-
-Overfull \hbox (24.7058pt too wide) in paragraph at lines 4778--4778
- [] \OT1/cmr/m/n/12 del sombr^^S^^Po [][]  
- []
-
-
-Overfull \hbox (25.68495pt too wide) in paragraph at lines 4780--4780
- [] \OT1/cmr/m/n/12 les abraza[][]  
- []
-
-
 
 
 
@@ -1396,6 +1410,7 @@ Overfull \hbox (25.68495pt too wide) in paragraph at lines 4780--4780
 
 
 [148
+
 
 ]
 
@@ -1416,7 +1431,6 @@ Overfull \hbox (25.68495pt too wide) in paragraph at lines 4780--4780
 
 [151
 
-
 ]
 
 
@@ -1428,6 +1442,7 @@ Overfull \hbox (25.68495pt too wide) in paragraph at lines 4780--4780
 
 
 [153
+
 
 ]
 
@@ -1468,18 +1483,19 @@ Overfull \hbox (25.68495pt too wide) in paragraph at lines 4780--4780
 
 [159
 
+
 ]
 
 
 
 [160
 
+
 ]
 
 
 
 [161
-
 
 ]
 
@@ -1495,39 +1511,6 @@ Overfull \hbox (25.68495pt too wide) in paragraph at lines 4780--4780
 [163
 
 
-]
-
-
-
-[164
-
-
-]
-
-
-
-[165
-
-]
-
-
-
-[166
-
-]
-
-
-
-[167
-
-
-]
-
-
-
-[168
-
-
 ])
 \openout3 = `cbtitle.sxd'.
 
@@ -1536,40 +1519,42 @@ Overfull \hbox (25.68495pt too wide) in paragraph at lines 4780--4780
 
  (./himnario.sxc) (./himnario.aux)
  ***********
-LaTeX2e <2024-11-01> patch level 2
-L3 programming layer <2025-01-18>
+LaTeX2e <2025-06-01> patch level 1
+L3 programming layer <2025-07-19>
  ***********
 Package rerunfilecheck Info: File `himnario.out' has not changed.
-(rerunfilecheck)             Checksum: 1B4B1A7220A6513E53BADF5582C8F4B3;27188.
+(rerunfilecheck)             Checksum: 485BEBBBC372DE3673D41C0176D8B0C6;27642.
  ) 
 Here is how much of TeX's memory you used:
- 14817 strings out of 475002
- 247171 string characters out of 5762004
- 673726 words of memory out of 5000000
- 37332 multiletter control sequences out of 15000+600000
- 570243 words of font info for 72 fonts, out of 8000000 for 9000
+ 14768 strings out of 469621
+ 245520 string characters out of 5478301
+ 683661 words of memory out of 5000000
+ 42664 multiletter control sequences out of 15000+600000
+ 638572 words of font info for 77 fonts, out of 8000000 for 9000
  107 hyphenation exceptions out of 8191
- 75i,7n,79p,1530b,820s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,7n,79p,1532b,824s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Fr
 ee-Solid.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx
 10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
-></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx6.pfb></usr/
-share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-di
-st/fonts/type1/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fon
-ts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type
-1/public/amsfonts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/pu
-blic/amsfonts/cm/cmssi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/
-amsfonts/cm/cmssi17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
-nts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm
-/cmsy7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12
-.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/tex
-mf/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on himnario.pdf (168 pages, 641103 bytes).
+></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx5.pfb></usr/
+share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/t
+exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-d
+ist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/public/amsfonts/cm/cmss10.pfb></usr/share/texlive/texmf-dist/fonts/type1/publi
+c/amsfonts/cm/cmss8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfo
+nts/cm/cmssbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmssi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cm
+ssi12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.
+pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></u
+sr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/sha
+re/texmf/fonts/type1/public/cm-super/sfrm1000.pfb></usr/share/texmf/fonts/type1
+/public/cm-super/sfti1000.pfb>
+Output written on himnario.pdf (163 pages, 663608 bytes).
 PDF statistics:
- 3660 PDF objects out of 4296 (max. 8388607)
- 1558 compressed objects within 16 object streams
- 322 named destinations out of 1000 (max. 500000)
- 1230 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 3644 PDF objects out of 4296 (max. 8388607)
+ 1559 compressed objects within 16 object streams
+ 319 named destinations out of 1000 (max. 500000)
+ 1246 words of extra memory for PDF output out of 10000 (max. 10000000)
 
